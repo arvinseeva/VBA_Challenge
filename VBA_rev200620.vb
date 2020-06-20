@@ -23,7 +23,7 @@ For Each ws In Worksheets
     ' list the tickers
     
     Dim a As Long
-    Dim lastrow As Long
+    Dim lastrow As Double
     Dim tickername As String
     Dim tickerloc As Integer
     Dim volume As Long
